@@ -1,0 +1,3 @@
+java -jar build/libs/TaskManager-1.0-SNAPSHOT.jar
+
+
